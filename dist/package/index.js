@@ -1,0 +1,21 @@
+"use strict";
+// calculator.js
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Calculator = void 0;
+class Calculator {
+    add(a, b) {
+        return a + b;
+    }
+    subtract(a, b) {
+        return a - b;
+    }
+    multiply(a, b) {
+        return a * b;
+    }
+    divide(a, b) {
+        return a / b;
+    }
+}
+exports.Calculator = Calculator;
+module.exports = Calculator;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBLGdCQUFnQjs7O0FBRWhCLE1BQWEsVUFBVTtJQUNqQixHQUFHLENBQUMsQ0FBTSxFQUFFLENBQU07UUFDaEIsT0FBTyxDQUFDLEdBQUcsQ0FBQyxDQUFDO0lBQ2YsQ0FBQztJQUVELFFBQVEsQ0FBQyxDQUFTLEVBQUUsQ0FBUztRQUMzQixPQUFPLENBQUMsR0FBRyxDQUFDLENBQUM7SUFDZixDQUFDO0lBRUQsUUFBUSxDQUFDLENBQVMsRUFBRSxDQUFTO1FBQzNCLE9BQU8sQ0FBQyxHQUFHLENBQUMsQ0FBQztJQUNmLENBQUM7SUFFRCxNQUFNLENBQUMsQ0FBUyxFQUFFLENBQVM7UUFDekIsT0FBTyxDQUFDLEdBQUcsQ0FBQyxDQUFDO0lBQ2YsQ0FBQztDQUNOO0FBaEJELGdDQWdCQztBQUVELE1BQU0sQ0FBQyxPQUFPLEdBQUcsVUFBVSxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLy8gY2FsY3VsYXRvci5qc1xyXG5cclxuZXhwb3J0IGNsYXNzIENhbGN1bGF0b3Ige1xyXG4gICAgICBhZGQoYTogYW55LCBiOiBhbnkpIHtcclxuICAgICAgICByZXR1cm4gYSArIGI7XHJcbiAgICAgIH1cclxuICAgIFxyXG4gICAgICBzdWJ0cmFjdChhOiBudW1iZXIsIGI6IG51bWJlcikge1xyXG4gICAgICAgIHJldHVybiBhIC0gYjtcclxuICAgICAgfVxyXG4gICAgXHJcbiAgICAgIG11bHRpcGx5KGE6IG51bWJlciwgYjogbnVtYmVyKSB7XHJcbiAgICAgICAgcmV0dXJuIGEgKiBiO1xyXG4gICAgICB9XHJcbiAgICBcclxuICAgICAgZGl2aWRlKGE6IG51bWJlciwgYjogbnVtYmVyKSB7XHJcbiAgICAgICAgcmV0dXJuIGEgLyBiO1xyXG4gICAgICB9XHJcbn1cclxuICAgIFxyXG5tb2R1bGUuZXhwb3J0cyA9IENhbGN1bGF0b3I7XHJcbiAgICAiXX0=
