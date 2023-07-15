@@ -1,6 +1,9 @@
 // calculator.js
 
 export class Calculator {
+      constructor () {
+            
+        }
       add(a: any, b: any) {
         return a + b;
       }
