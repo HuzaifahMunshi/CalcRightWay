@@ -2,7 +2,7 @@
 
 export class Calculator {
       constructor () {
-            
+            console.log( "Hello World" )
         }
       add(a: any, b: any) {
         return a + b;
