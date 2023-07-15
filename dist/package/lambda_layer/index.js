@@ -1,0 +1,25 @@
+"use strict";
+// calculator.js
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Calculator = void 0;
+class Calculator {
+    constructor() {
+        console.log("Hello World");
+    }
+    add(a, b) {
+        return a + b;
+    }
+    subtract(a, b) {
+        return a - b;
+    }
+    multiply(a, b) {
+        return a * b;
+    }
+    divide(a, b) {
+        return a / b;
+    }
+}
+exports.Calculator = Calculator;
+exports.Calculator = Calculator;
+// module.exports = Calculator;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBLGdCQUFnQjs7O0FBRWhCLE1BQWEsVUFBVTtJQUNqQjtRQUNNLE9BQU8sQ0FBQyxHQUFHLENBQUUsYUFBYSxDQUFFLENBQUE7SUFDaEMsQ0FBQztJQUNILEdBQUcsQ0FBQyxDQUFNLEVBQUUsQ0FBTTtRQUNoQixPQUFPLENBQUMsR0FBRyxDQUFDLENBQUM7SUFDZixDQUFDO0lBRUQsUUFBUSxDQUFDLENBQVMsRUFBRSxDQUFTO1FBQzNCLE9BQU8sQ0FBQyxHQUFHLENBQUMsQ0FBQztJQUNmLENBQUM7SUFFRCxRQUFRLENBQUMsQ0FBUyxFQUFFLENBQVM7UUFDM0IsT0FBTyxDQUFDLEdBQUcsQ0FBQyxDQUFDO0lBQ2YsQ0FBQztJQUVELE1BQU0sQ0FBQyxDQUFTLEVBQUUsQ0FBUztRQUN6QixPQUFPLENBQUMsR0FBRyxDQUFDLENBQUM7SUFDZixDQUFDO0NBQ047QUFuQkQsZ0NBbUJDO0FBRUQsT0FBTyxDQUFDLFVBQVUsR0FBRyxVQUFVLENBQUM7QUFDaEMsK0JBQStCIiwic291cmNlc0NvbnRlbnQiOlsiLy8gY2FsY3VsYXRvci5qc1xyXG5cclxuZXhwb3J0IGNsYXNzIENhbGN1bGF0b3Ige1xyXG4gICAgICBjb25zdHJ1Y3RvciAoKSB7XHJcbiAgICAgICAgICAgIGNvbnNvbGUubG9nKCBcIkhlbGxvIFdvcmxkXCIgKVxyXG4gICAgICAgIH1cclxuICAgICAgYWRkKGE6IGFueSwgYjogYW55KSB7XHJcbiAgICAgICAgcmV0dXJuIGEgKyBiO1xyXG4gICAgICB9XHJcbiAgICBcclxuICAgICAgc3VidHJhY3QoYTogbnVtYmVyLCBiOiBudW1iZXIpIHtcclxuICAgICAgICByZXR1cm4gYSAtIGI7XHJcbiAgICAgIH1cclxuICAgIFxyXG4gICAgICBtdWx0aXBseShhOiBudW1iZXIsIGI6IG51bWJlcikge1xyXG4gICAgICAgIHJldHVybiBhICogYjtcclxuICAgICAgfVxyXG4gICAgXHJcbiAgICAgIGRpdmlkZShhOiBudW1iZXIsIGI6IG51bWJlcikge1xyXG4gICAgICAgIHJldHVybiBhIC8gYjtcclxuICAgICAgfVxyXG59XHJcblxyXG5leHBvcnRzLkNhbGN1bGF0b3IgPSBDYWxjdWxhdG9yO1xyXG4vLyBtb2R1bGUuZXhwb3J0cyA9IENhbGN1bGF0b3I7XHJcbiAgICAiXX0=

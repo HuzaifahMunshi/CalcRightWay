@@ -6,7 +6,7 @@
       "es2020",
       "DOM"
     ],
-    "outDir": "./dist/package",
+    "outDir": "./dist/package/lambda_layer",
     "declaration": true,
     "strict": true,
     "noImplicitAny": true,

@@ -1,7 +1,7 @@
 {
   "name": "lambda_layer",
-  "main": "./dist/package/index.js",
-  "types": "./dist/package/index.d.ts",
+  "main": "./dist/package/lambda_layer/index.js",
+  "types": "./dist/package/lambda_layer/index.d.ts",
   "version": "0.1.0",
   "bin": {
     "lambda_layer": "bin/lambda_layer.js"
