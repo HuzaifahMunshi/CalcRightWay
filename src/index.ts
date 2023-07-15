@@ -20,6 +20,7 @@ export class Calculator {
         return a / b;
       }
 }
-    
-module.exports = Calculator;
+
+exports.Calculator = Calculator;
+// module.exports = Calculator;
     
